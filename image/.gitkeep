@@ -1,1 +1,6 @@
+cd your-repository-name
+mkdir new-folder-name
+git add new-folder-name/
+git commit -m "Add new-folder-name directory"
+git push origin main
 
