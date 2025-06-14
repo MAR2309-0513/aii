@@ -1,6 +1,6 @@
 cd your-repository-name
-mkdir new-folder-name
-git add new-folder-name/
-git commit -m "Add new-folder-name directory"
+mkdir images
+git add images/
+git commit -m "Add images directory"
 git push origin main
 
