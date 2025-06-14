@@ -1,6 +1,1 @@
-cd your-repository-name
-mkdir images
-git add images/
-git commit -m "Add images directory"
-git push origin main
 
