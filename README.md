@@ -1,8 +1,8 @@
 # aii
 AI画像生成
-<html>
+html
 <img src="images/Gemini_Generated_Image_zgh8adzgh8adzgh8.png" alt="AI生成画像">
-
+html
 
     
 <!DOCTYPE html>
