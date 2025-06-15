@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html>
 <head>
 <title>私のウェブサイト</title>
 </head>
