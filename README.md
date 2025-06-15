@@ -1,7 +1,7 @@
 # aii
 AI画像生成
 <html>
-<img src="images/my_photo.jpg" alt="images/Gemini_Generated_Image_zgh8adzgh8adzgh8.png">
+<img src="images/Gemini_Generated_Image_zgh8adzgh8adzgh8.png" alt="AI生成画像">
 
 
     
