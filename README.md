@@ -1,6 +1,3 @@
-# aii
-AI画像生成
-    
 <!DOCTYPE html>
 <html>
 <head>
